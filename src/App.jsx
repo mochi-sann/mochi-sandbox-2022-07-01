@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Loganimation from "./icon-animation.json";
+import Loganimation from "./icon-animation-2.json";
 import { Player } from "@lottiefiles/react-lottie-player";
 import "./App.css";
 
